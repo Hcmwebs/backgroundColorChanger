@@ -1,0 +1,1 @@
+This is a project of a simple random color generator updating the background. It is a inspired by another of my favorite developers, <a href=" Github: https://github.com/florinpop17" target="_blank" rel="noopener noreferrer">Florin Pop</a>. My total admiration and much gratitude <a href=" Github: https://github.com/florinpop17" target="_blank" rel="noopener noreferrer">Florin</a>
